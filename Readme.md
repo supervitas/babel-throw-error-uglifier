@@ -14,5 +14,5 @@ Usage
 
 ## As babel plugin
 
-#.babelrc
- `plugins: [require('./plugin.js')]`
+## .babelrc
+ `plugins: ['babel-throw-error-uglifier']`
