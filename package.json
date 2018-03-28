@@ -1,6 +1,6 @@
 {
   "name": "babel-throw-error-uglifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uglifies throw new Error(\"error desctription\") to throw new Error 0",
   "main": "index.js",
   "scripts": {
