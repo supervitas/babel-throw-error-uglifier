@@ -12,7 +12,6 @@ From NPM for programmatic use:
 Usage
 -------
 
-## As babel plugin
 
 ## .babelrc
  `plugins: ['babel-throw-error-uglifier']`
