@@ -1,0 +1,25 @@
+{
+  "name": "babel-throw-error-uglifier",
+  "version": "1.0.0",
+  "description": "Uglifies throw new Error(\"error desctription\") to throw new Error 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vec3h/babel-throw-error-uglifier.git"
+  },
+  "keywords": [
+    "uglify",
+    "babel",
+    "errors",
+    "uglifier"
+  ],
+  "author": "vec3h",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vec3h/babel-throw-error-uglifier/issues"
+  },
+  "homepage": "https://github.com/vec3h/babel-throw-error-uglifier#readme"
+}
