@@ -1,4 +1,4 @@
-Babel Plugin for replacing thow Errors to throw 0, for better minification
+Babel plugin for replacing throwing errors with strings to throw 0, for better minification, can be used with webpack or gulp
 ==========
 
 Install
