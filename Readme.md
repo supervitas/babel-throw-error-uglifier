@@ -1,5 +1,7 @@
-Babel plugin for replacing throwing errors with strings to throw 0, for better minification, can be used with webpack or gulp
+throw new Error('big error message') to throw 0
 ==========
+
+Babel plugin for replacing throwing errors with strings to throw 0, for better minification, can be used with webpack or gulp
 
 Install
 -------
